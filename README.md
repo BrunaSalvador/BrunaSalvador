@@ -7,11 +7,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: JS, Java, React Native, SQL, PHP
+  🦄 Linguagens: JS, Java, React Native, SQL, PHP e C.
 </p>
 
 <p align="left">
-  💼 Ferramentas: VS Code, MySql
+  💼 Ferramentas: VS Code, MySql, MongoDB
 </p>
 
 <p align="left">
