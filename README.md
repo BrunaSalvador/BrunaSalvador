@@ -1,9 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  olá. Sou a <strong>Bruna Salvador</strong>. Estou atualmente estudando no curso técnico de Desenvolvimento de Sistemas na Etec de Campinas.
-  Sou fã de <strong>backend</strong>.<br>
-  Atualmente estou me dedicando no meu projeto de api para pedidos.
+  olá. Sou a <strong>Bruna Salvador</strong>. Estou atualmente estudando no curso técnico de Desenvolvimento de Sistemas na Etec de Campinas. Pretendo me especializar na área e buscar novos projetos para desenvolver.
 </p>
 
 <p align="left">
