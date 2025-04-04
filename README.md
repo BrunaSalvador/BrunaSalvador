@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: JS, Java, React Native, SQL
+  🦄 Linguagens: JS, Java, React Native, SQL, PHP
 </p>
 
 <p align="left">
